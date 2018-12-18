@@ -5,6 +5,7 @@
 ## About Gbedu's blog
 
 Gbedu's blog is a fully featured blogging system built on top of the famous PHP's Laravel 5 framework
+and mySql database
 
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
